@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/mvn"
+IMAGE_NAME="ratheesh510vh/testops"
 TAG="latest"
 
 # Build Docker image
